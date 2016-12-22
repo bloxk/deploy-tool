@@ -15,7 +15,23 @@ It does the following:
 
 ## Usage
 
+### Standalone
+
 Run `bundle exec thor COMMAND` where COMMAND is one of the above listed commands.
+
+### Docker
+
+Build the Docker image
+
+`docker build . -t mytool`
+
+List the available commands
+
+`docker run -it mytool list`
+
+Execute a command
+
+`docker run -it mytool app:deploy`
 
 ## Contributing
 
