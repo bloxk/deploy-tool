@@ -1,0 +1,13 @@
+this is a practice vagrant file
+
+
+
+
+:wq
+
+
+
+
+
+:qw
+:qw
