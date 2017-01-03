@@ -1,0 +1,4 @@
+Hello
+
+Thus from vagrant after modifying vagrantfile.
+
